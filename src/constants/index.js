@@ -145,10 +145,9 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Mar-2023-Jul-2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+     " Build effecient and scalabel web pages and components using ReactJsand NEXTJs",
+      " Designed the complete userstreak density graph for geeksforgeeks which is live on website",
+       "Used RTK Queries for data fetching and caching"
     ],
   },
   {
