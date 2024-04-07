@@ -24,7 +24,7 @@ import {
   jobit,
   tripguide,
   threejs,
-  techolution,
+  techolution1,
   dp,
   IIITV,
   GFG,
@@ -129,7 +129,7 @@ const experiences = [
   {
     title: "Fullstack Developer",
     company_name: "Techolution",
-    icon: techolution,
+    icon: techolution1,
     iconBg: "#383E56",
     date: "Jul-2023 - Present",
     points: [

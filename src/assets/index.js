@@ -36,9 +36,9 @@ import java from './tech/java.png'
 import mobivax from './mobivax.png'
 import dodonate from './dodonate.png'
 import crypto from './crypto.png'
-import techolution from "./company/techolution.jpeg"
+import techolution1 from "./company/techolution1.jpeg"
 export {
-  techolution,
+  techolution1,
   mobivax,
   crypto,
   dodonate,
