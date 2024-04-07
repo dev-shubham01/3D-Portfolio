@@ -16,14 +16,15 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
+  // meta,
+  // starbucks,
+  // tesla,
+  // shopify,
   carrent,
   jobit,
   tripguide,
   threejs,
+  techolution,
   dp,
   IIITV,
   GFG,
@@ -125,6 +126,19 @@ const technologies = [
 ];
 
 const experiences = [
+  {
+    title: "Fullstack Developer",
+    company_name: "Techolution",
+    icon: techolution,
+    iconBg: "#383E56",
+    date: "Jul-2023 - Present",
+    points: [
+      "Led comprehensive AI product development at Techoluition, overseeing full stack responsibilities",
+      "Engineered robust RESTful APIs utilizing MongoDB and Express JS for improved backend efficiency by 30%",
+      "Applied diverse technologies such as React, Node, Material UI, and MVC for developing intricate applications",
+      "Participating in code reviews and providing constructive feedback to other developers.",
+    ],
+  },
   {
     title: "Fullstack Developer",
     company_name: "Drink Prime",

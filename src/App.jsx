@@ -3,6 +3,7 @@ import { BrowserRouter } from "react-router-dom";
 import { About, Contact, Experience,  Hero, Navbar, Tech, Works, StarsCanvas } from "./components";
 
 const App = () => {
+  console.log('Shubham')
   return (
     <BrowserRouter>
       <div className='relative z-0 bg-primary'>

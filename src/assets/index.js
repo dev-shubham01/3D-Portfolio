@@ -21,23 +21,24 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import IIITV from "./company/IIITV.png";
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+// import meta from "./company/meta.png";
+// import shopify from "./company/shopify.png";
+// import starbucks from "./company/starbucks.png";
+// import tesla from "./company/tesla.png";
 import dp from "./company/dp.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import GFG from "./company/GFG.png";
-import HK from "./company/HKLogo.png";
+import HK from "./company/HK.jpeg";
 import flutter from "./tech/flutter.png";
 import java from './tech/java.png'
 import mobivax from './mobivax.png'
 import dodonate from './dodonate.png'
 import crypto from './crypto.png'
-
+import techolution from "./company/techolution.jpeg"
 export {
+  techolution,
   mobivax,
   crypto,
   dodonate,
@@ -66,10 +67,7 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
+ 
   carrent,
   jobit,
   tripguide,
